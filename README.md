@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** and proud **Lead Mentor at Africode Acade
 - [sigira.com](https://sigira.com)
 
 ## 💡 Fun Fact
-> "There's nothing like the dopamine hit I get from bringing an app to life through code."
+> "There's nothing like the dopamine hit I get from bringing an app to life through code." Chatelo
 
 ---
 
