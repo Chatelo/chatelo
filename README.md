@@ -11,7 +11,7 @@ I'm a passionate **Software Engineer** and proud **Lead Mentor at Africode Acade
 - **Databases**: PostgreSQL
 
 ## 🌟 Projects I Love
-- **[creview](https://github.com/Chatelo/freview)**: Open source Python project reviewer — making code reviews smarter and more accessible.
+- **[freview](https://github.com/Chatelo/freview)**: Open source Python project reviewer — making code reviews smarter and more accessible.
 
 ## 👥 Connect With Me
 - [X (Twitter)](https://x.com/Chatelobenna)
