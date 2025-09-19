@@ -1,26 +1,43 @@
-# 👋 Hi there, I'm Chatelo!
+# 👋 Hi — Chatelo
+<details>
+<summary><strong>🚀 About</strong></summary>
 
-## 🚀 About Me
-I'm a passionate **Software Engineer** and proud **Lead Mentor at Africode Academy**. I thrive on building scalable solutions and empowering the next generation of tech talent. There's nothing like the dopamine hit I get from bringing an app to life through code.
+I'm a Software Engineer and Lead Mentor at Africode Academy. I build scalable apps and enjoy mentoring engineers.
 
-## 🛠️ Tech Stack & Skills
-- **JavaScript**: Next.js, React Native
-- **Python**: Flask, Django
-- **Rust**
-- **DevOps**: Docker, Linux, Git & GitHub (PRO), Shell Scripting (.sh)
-- **Databases**: PostgreSQL
+</details>
 
-## 🌟 Projects I Love
-- **[freview](https://github.com/Chatelo/freview)**: Open source Python project reviewer — making code reviews smarter and more accessible.
+<details>
+<summary><strong>🛠️ Tech Stack & Skills</strong></summary>
 
-## 👥 Connect With Me
-- [X (Twitter)](https://x.com/Chatelobenna)
-- [LinkedIn](https://www.linkedin.com/in/benard-ronoh)
-- [sigira.com](https://sigira.com)
+- JavaScript: Next.js, React Native
+- Python: Flask, Django
+- Rust
+- DevOps: Docker, Linux, Git & GitHub, Shell scripting
+- Databases: PostgreSQL
 
-## 💡 Fun Fact
-> "There's nothing like the dopamine hit I get from bringing an app to life through code." Chatelo
+</details>
 
----
+<details>
+<summary><strong>🌟 Selected Projects</strong></summary>
 
-_Always open to collaboration, mentorship, and building impactful tech together!_
+- freview — Open source Python project reviewer: https://github.com/Chatelo/freview
+
+</details>
+
+<details>
+<summary><strong>👥 Connect</strong></summary>
+
+- X (Twitter): https://x.com/Chatelobenna
+- LinkedIn: https://www.linkedin.com/in/benard-ronoh
+- Website: https://sigira.com
+
+</details>
+
+<details>
+<summary><strong>💡 Fun Fact</strong></summary>
+
+> "There's nothing like the dopamine hit I get from bringing an app to life through code." — Chatelo
+
+</details>
+
+> Always open to collaboration, mentorship, and building impactful tech together.
