@@ -1,4 +1,5 @@
 # 👋 Hi — Chatelo
+> Always open to collaboration, mentorship, and building impactful tech together.
 <details>
 <summary><strong>🚀 About</strong></summary>
 
@@ -40,4 +41,3 @@ I'm a Software Engineer and Lead Mentor at Africode Academy. I build scalable ap
 
 </details>
 
-> Always open to collaboration, mentorship, and building impactful tech together.
