@@ -33,7 +33,8 @@ I'm a Software Engineer and Lead Mentor at Africode Academy. I build scalable ap
 
 </details>
 
-<details>
+<!-- Fun Fact: intentionally collapsed by default -->
+<details id="fun-fact">
 <summary><strong>💡 Fun Fact</strong></summary>
 
 > "There's nothing like the dopamine hit I get from bringing an app to life through code." — Chatelo
