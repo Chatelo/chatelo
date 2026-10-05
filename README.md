@@ -2,7 +2,7 @@
 
 Software engineer building scalable web and mobile applications. Previously Lead Mentor at **Africode Academy**, where I helped engineers grow through hands-on mentorship.
 
-Currently exploring **machine learning in Rust** — building models from first principles rather than reaching for a framework.
+Currently exploring **machine learning in Rust** — building models from first principles.
 
 ---
 
