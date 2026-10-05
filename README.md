@@ -21,7 +21,7 @@ A chapter-by-chapter series building an end-to-end ML pipeline in Rust on the Fr
 | --------- | --------------------------------------------- |
 | Languages | Rust, JavaScript, Python                      |
 | Frontend  | React (Next.js, Vite), React Native           |
-| Backend   | Django, Flask                                 |
+| Backend   | Axum · Other: Django, Flask                   |
 | Data      | PostgreSQL                                    |
 | DevOps    | Docker, Linux, Git & GitHub, Shell scripting |
 
