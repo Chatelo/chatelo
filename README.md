@@ -1,6 +1,6 @@
 ### Hi, I'm Benard Ronoh (Chatelo)
 
-Software engineer and Lead Mentor at **Africode Academy**. I build scalable web and mobile applications, and help engineers grow through hands-on mentorship.
+Software engineer building scalable web and mobile applications. Previously Lead Mentor at **Africode Academy**, where I helped engineers grow through hands-on mentorship.
 
 Currently exploring **machine learning in Rust** — building models from first principles rather than reaching for a framework.
 
