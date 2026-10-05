@@ -1,43 +1,36 @@
-# 👋 Hi — Chatelo
-> Always open to collaboration, mentorship, and building impactful tech together.
-<details>
-<summary><strong>🚀 About</strong></summary>
+### Hi, I'm Benard Ronoh (Chatelo)
 
-I'm a Software Engineer and Lead Mentor at Africode Academy. I build scalable apps and enjoy mentoring engineers.
+Software engineer and Lead Mentor at **Africode Academy**. I build scalable web and mobile applications, and help engineers grow through hands-on mentorship.
 
-</details>
+Currently exploring **machine learning in Rust** — building models from first principles rather than reaching for a framework.
 
-<details>
-<summary><strong>🛠️ Tech Stack & Skills</strong></summary>
+---
 
-- JavaScript: Next.js, React Native
-- Python: Flask, Django
-- Rust
-- DevOps: Docker, Linux, Git & GitHub, Shell scripting
-- Databases: PostgreSQL
+#### Featured project
 
-</details>
+**[Machine Learning in Rust from Scratch](https://github.com/Chatelo/Machine-Learning-In-Rust-from-scratch)**  
+A chapter-by-chapter series building an end-to-end ML pipeline in Rust on the Framingham Heart Study dataset — data exploration, cleaning and train/test splitting, linear regression, model evaluation, and fine-tuning open-weight models. Each chapter lives on its own branch so you can follow along step by step.
 
-<details>
-<summary><strong>🌟 Selected Projects</strong></summary>
+`Rust` · `Machine Learning` · `Data Engineering`
 
-- freview — Open source Python project reviewer: https://github.com/Chatelo/freview
+---
 
-</details>
+#### Tech stack
 
-<details>
-<summary><strong>👥 Connect</strong></summary>
+| Area      | Tools                                         |
+| --------- | --------------------------------------------- |
+| Languages | Rust, JavaScript, Python                      |
+| Frontend  | Next.js, React Native                         |
+| Backend   | Django, Flask                                 |
+| Data      | PostgreSQL                                    |
+| DevOps    | Docker, Linux, Git & GitHub, Shell scripting |
 
-- X (Twitter): https://x.com/Chatelobenna
-- LinkedIn: https://www.linkedin.com/in/benard-ronoh
-- Website: https://sigira.com
+---
 
-</details>
+#### Connect
 
-<details open>
-<summary><strong>💡 Fun Fact</strong></summary>
+[![Website](https://img.shields.io/badge/sigira.com-111?style=flat-square&logo=googlechrome&logoColor=white)](https://sigira.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-ronoh)
+[![X](https://img.shields.io/badge/@Chatelobenna-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Chatelobenna)
 
-> "There's nothing like the dopamine hit I get from bringing an app to life through code." — Chatelo
-
-</details>
-
+Open to collaboration, mentorship, and building impactful products.
