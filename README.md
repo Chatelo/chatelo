@@ -20,7 +20,7 @@ A chapter-by-chapter series building an end-to-end ML pipeline in Rust on the Fr
 | Area      | Tools                                         |
 | --------- | --------------------------------------------- |
 | Languages | Rust, JavaScript, Python                      |
-| Frontend  | Next.js, React Native                         |
+| Frontend  | React (Next.js, Vite), React Native           |
 | Backend   | Django, Flask                                 |
 | Data      | PostgreSQL                                    |
 | DevOps    | Docker, Linux, Git & GitHub, Shell scripting |
